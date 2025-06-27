@@ -1,5 +1,8 @@
-print("Hi")
-#a = a + 1
-for i in range(20):
-    i = i + 1
-print(i)
+
+a = 10
+b = a
+b = 15
+print(a)
+print(b) 
+print(a)
+print(b)
