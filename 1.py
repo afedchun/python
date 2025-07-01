@@ -1,8 +1,6 @@
+number = input()
+def new_func(number):
+    number  = number + 1
+    return number
 
-a = 10
-b = a
-b = 15
-print(a)
-print(b) 
-print(a)
-print(b)
+print(new_func(number))
